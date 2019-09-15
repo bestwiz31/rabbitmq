@@ -15,9 +15,8 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 消息接口.
  *
- * @author dax.
+ * @author chenchen.
  * @version v1.0
- * @since 2018 /2/23 17:27
  */
 @RestController
 @RequestMapping("/delay")
