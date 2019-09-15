@@ -1,0 +1,11 @@
+rabbitmq:
+  host: 49.235.77.64
+  port: 5672
+  username: admin
+  password: admin
+  publisher-confirms: true
+  virtual-host: /
+
+logging:
+  config: classpath:logback.xml
+
